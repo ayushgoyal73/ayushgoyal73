@@ -25,7 +25,12 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ayushgoyal73&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<p>
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://profile-counter.glitch.me/{ayushgoyal73}/count.svg" alt="VisitorCount">
+    </p>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
