@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Ayush Goyal</h1>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif">
+
+
 # 💫 About Me:
 🔭 I’m Currently Preparing For Building Projects.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bitly.ws/UdxM<br>😄 Pronouns: He/His
 
