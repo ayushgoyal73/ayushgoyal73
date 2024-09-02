@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m Currently Preparing For Building Projects.<br>🌱 I’m currently Exploring Web Development,<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bitly.ws/UdxM<br>😄 Pronouns: He/His
+👀 I’m interested in Front-End Development. <br> 🌱 I’m currently learning Full Stack Web Development. <br>💞️ I’m looking to collaborate on exciting front-end projects. <br>📫 How to reach me: https://www.linkedin.com/in/ayushgoyal73/ <br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
